@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,pycharm,py,pytorch,r,sklearn,tensorflow)](https://skillicons.dev)
+
+## 📫 How to reach me:
+
 
 <!--
 **weweGH/weweGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
