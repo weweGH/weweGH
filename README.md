@@ -2,7 +2,7 @@
 
 ## Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,pycharm,py,pytorch,r,sklearn,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,pycharm,py,pytorch,r,sklearn,tensorflow,javascript)](https://skillicons.dev)
 
 ## 📫 How to reach me:
 
